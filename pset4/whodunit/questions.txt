@@ -1,0 +1,12 @@
+1.  a c header file that contains some primitive data types
+2.  so that our program can read machine independent bmp files
+3.  1, 2, 4, 4.
+4.  BM
+5.  bfsize is the total size of file and bisize si the size of info header in bytes
+6.  the image would be top-down
+7.  biBitCount
+8.  given file might not exist or it won't be pemitted to be read
+9.  we have defined byte size for different objects and we've directly used those names, the number 1 specifies that only one such object is to be read
+10. 3
+11. changes the cursor position in a stream
+12. SEEK_CUR returns the current position of cursor in a stream
