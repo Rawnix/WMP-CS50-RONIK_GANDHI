@@ -1,0 +1,7 @@
+0.  it is an invented long word said to mean a lung disease caused by inhaling small dust particles, it is also known as silicosis.
+1.  it returns usage resource measures.
+2.  16
+3.  cuz we also need to access their values later, which is not possible if we pass it by value cuz their values would be destroyed after the end of function.
+4.  TODO
+5.  TODO
+6.  just to make sure the word or the dictionary name is not altered.
